@@ -5,5 +5,6 @@
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="reset">Reset</string>
-    <string name="resume">Resume</string>
+    <string name="startall">Start All</string>
+    <string name="resetall">Reset All</string>
 </resources>
